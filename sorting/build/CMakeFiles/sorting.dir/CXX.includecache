@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damdem/Bureau/poocs/sorting/main.cpp
+sort.h
+/home/damdem/Bureau/poocs/sorting/sort.h
+
+/home/damdem/Bureau/poocs/sorting/sort.cpp
+sort.h
+/home/damdem/Bureau/poocs/sorting/sort.h
+
+/home/damdem/Bureau/poocs/sorting/sort.h
+random
+-
+chrono
+-
+vector
+-
+algorithm
+-
+iostream
+-
+

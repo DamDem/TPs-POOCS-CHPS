@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/damdem/Bureau/poocs/regression/headers/DataGen.h
+vector
+-
+utility
+-
+iostream
+-
+cmath
+-
+matplotlibcpp.h
+/home/damdem/Bureau/poocs/regression/headers/matplotlibcpp.h
+../headers/Tools.h
+/home/damdem/Bureau/poocs/regression/headers/Tools.h
+
+/home/damdem/Bureau/poocs/regression/headers/Tools.h
+random
+-
+
+/home/damdem/Bureau/poocs/regression/src/DataGen.cpp
+../headers/DataGen.h
+/home/damdem/Bureau/poocs/regression/headers/DataGen.h
+
+/home/damdem/Bureau/poocs/regression/src/Hypothese.cpp
+
+/home/damdem/Bureau/poocs/regression/src/Tools.cpp
+../headers/Tools.h
+/home/damdem/Bureau/poocs/regression/headers/Tools.h
+
+/home/damdem/Bureau/poocs/regression/src/main.cpp
+vector
+-
+../headers/DataGen.h
+/home/damdem/Bureau/poocs/regression/headers/DataGen.h
+

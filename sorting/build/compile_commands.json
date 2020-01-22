@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/damdem/Bureau/poocs/sorting/build",
+  "command": "/usr/bin/g++-8    -g   -o CMakeFiles/sorting.dir/main.cpp.o -c /home/damdem/Bureau/poocs/sorting/main.cpp",
+  "file": "/home/damdem/Bureau/poocs/sorting/main.cpp"
+},
+{
+  "directory": "/home/damdem/Bureau/poocs/sorting/build",
+  "command": "/usr/bin/g++-8    -g   -o CMakeFiles/sorting.dir/sort.cpp.o -c /home/damdem/Bureau/poocs/sorting/sort.cpp",
+  "file": "/home/damdem/Bureau/poocs/sorting/sort.cpp"
+}
+]
